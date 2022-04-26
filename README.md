@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kknight-valorem
+- 👋 Hi, I’m kknight @ valorem .com
 - 👀 I’m interested in github solutions
 - 🌱 I’m currently learning powershell automation tools for Azure
 - 💞️ I’m looking to collaborate on PowerShell
